@@ -89,6 +89,4 @@ class App extends Component{
     }
 }
 
-
-export default App;
-Footer
+export default App
